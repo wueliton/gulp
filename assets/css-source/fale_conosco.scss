@@ -1,0 +1,12 @@
+.home {
+  padding: 20px;
+
+  & .container {
+    max-width: 1080px;
+    margin: auto;
+
+    & .title {
+      background-color: yellow;
+    }
+  }
+}
